@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.anhvinh.demoapplink",
+    "sha256_cert_fingerprints":
+    ["EF:82:0B:6C:B0:C3:AA:90:B3:E4:E3:AB:05:FD:A2:59:4D:2F:54:97:37:E7:BF:E3:3F:02:32:20:89:C0:0D:B3"]
+  }
+}]
